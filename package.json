@@ -1,0 +1,25 @@
+{
+  "name": "alexa-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sebastian-meier/alexa-test.git"
+  },
+  "author": "Sebastian Meier @seb_meier",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sebastian-meier/alexa-test/issues"
+  },
+  "homepage": "https://github.com/sebastian-meier/alexa-test#readme",
+  "dependencies": {
+    "ask-sdk": "^2.0.6",
+    "ask-sdk-core": "^2.0.5",
+    "install": "^0.11.0",
+    "npm": "^6.1.0"
+  }
+}
